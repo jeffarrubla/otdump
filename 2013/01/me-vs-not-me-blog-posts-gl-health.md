@@ -1,3 +1,5 @@
+**SUNDAY, JANUARY 13, 2013**
+
 me vs not-me blog posts : GL Health Status Indicator
 =================
 
