@@ -18,3 +18,6 @@ The buttons would submit to a loggin data service the event. The js of the page 
 ![Alt text](images/wakeup-diary.png)
 
 The service could possibly use the openkeyval service - it may not be hard to allow for multi-user and read only sharing without any server component besides whatever is available as part of openkeyval and a github project page to host the actual amisleeping.com home page.
+
+
+_Posted at 8:27 PM_
