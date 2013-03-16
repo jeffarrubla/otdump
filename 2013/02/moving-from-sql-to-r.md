@@ -13,8 +13,8 @@ Apparently R doesn't have any builtin support for databases so you need to insta
 After following a few wrong posts, I found that there is already a CRAN (like CPAN) with all the R packages, where I found the name of the postgreSQL one.
 Trying install it gave me dependency errors. I couldn't find some way to ask R to install anything that it needs recursively. Here is the resulted manual list:
 
-<pre>
-----Adding  DB Drivers
+
+`----Adding  DB Drivers
 Add MySQL, Postgres drivers
 > r
 install.packages("rJava")
@@ -24,8 +24,7 @@ exit
 
 > r
 install.packages("RMySQL")
-install.packages("RPostgreSQL")
-</pre>
+install.packages("RPostgreSQL")`
 
 I had to exit and run the javareconf command - otherwise it wouldn't work. Still after that 30 minute exercise I had both postgres and mysql drivers.
 

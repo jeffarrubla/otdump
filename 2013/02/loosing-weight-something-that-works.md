@@ -3,7 +3,7 @@
 Losing weight - something that works 
 =================
 
-Continuing on a previous blog post about [losing weight](../2013/01/losing-weight.md) (ignoring the fact that it shows that I am actually more obsessed about it than what I want to think).
+Continuing on a previous blog post about [losing weight](../01/losing-weight.md) (ignoring the fact that it shows that I am actually more obsessed about it than what I want to think).
 
 I think I found a method that I can reliably lose as much weight as I want.
 As always losing weight has nothing to do with "diets" and chosing what food to eat.
