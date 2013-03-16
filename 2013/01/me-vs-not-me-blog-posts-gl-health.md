@@ -7,3 +7,5 @@ Reading the blog of my friend gl I think I know when he is up or down. I can tel
 
 So what needs to be done, possibly with the help of a crowdsourced tag is for my friend to get an neutral assessment whether the blog was an Introspective blog or not. then he maintain a chart of the percent of blogs in a week/month of blogs that are about introspection, see the long term pattern and as long as the observation doesn't affect the actual experiment (by avoiding to post introspective blogs to avoid being observed)
 etc.
+
+_Posted at 8:00 AM_
